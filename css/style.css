@@ -1,0 +1,77 @@
+#div1 {
+  background-color: #ff0000;
+  align-self: flex-end;
+}
+#div2 {
+  background-color: #ee0000;
+}
+#div3 {
+  background-color: #dd0000;
+  flex-basis: 30%;
+}
+#div4 {
+  background-color: #cc0000;
+}
+#div5 {
+  background-color: #bb0000;
+  flex-shrink: 2;
+}
+#div6 {
+  background-color: #aa0000;
+}
+#div7 {
+  background-color: #990000;
+}
+#div8 {
+  background-color: #880000;
+}
+#div9 {
+  background-color: #770000;
+}
+#div10 {
+  background-color: #660000;
+}
+#div11 {
+  background-color: #ff0000;
+}
+#div12 {
+  background-color: #ee0000;
+}
+#div13 {
+  background-color: #dd0000;
+}
+#div14 {
+  background-color: #cc0000;
+}
+#div15 {
+  background-color: #bb0000;
+}
+#div16 {
+  background-color: #aa0000;
+}
+#div17 {
+  background-color: #990000;
+}
+#div18 {
+  background-color: #880000;
+}
+#div19 {
+  background-color: #770000;
+}
+#div20 {
+  background-color: #660000;
+}
+#div1,#div2,#div3,#div4,#div5,#div6,#div7,#div8,#div9,#div10,
+#div11,#div12,#div13,#div14,#div15,#div16,#div17,#div18,#div19,#div20  {
+  width: 100px;
+  height: 100px;
+  font-size: 400%;
+}
+
+#container {
+  width: 98%;
+  height: 400px;
+  background-color: papayawhip;
+  display: flex;
+  /* flex-wrap: wrap; */
+}
